@@ -66,12 +66,13 @@ imageView.setImageBitmap(bitmap);
  
 ### Future(in descending order of priority)
 1. Adding support for `wrap_content`
-2. Adding support for any configuration of shadows
-3. Adding support for `setImageUri`, `setImageResource` and `setImageDrawable`
-4. Adding support for color filters to easily configure effects like Sepia, Grayscale etc.
-5. Adding support for Image transitions when changing the image content
-6. Adding support for custom shapes
-7. ?
+2. Adding support for color selectors for borders and shadows
+3. Adding support for any configuration of shadows
+4. Adding support for `setImageUri`, `setImageResource` and `setImageDrawable`
+5. Adding support for color filters to easily configure effects like Sepia, Grayscale etc.
+6. Adding support for Image transitions when changing the image content
+7. Adding support for custom shapes
+8. ?
 
 ### License
 Copyright 2014 Vinay S Shenoy

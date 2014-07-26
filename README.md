@@ -6,6 +6,8 @@ Demo app is coming on the Play Store soon!
 
 The basic concept for drawing Bitmaps with a shape without creating a new Bitmap is based on [Romain Guy](https://plus.google.com/+RomainGuy)'s article on drawing [Bitmaps with Rounded Corners](http://www.curious-creature.org/2012/12/11/android-recipe-1-image-with-rounded-corners/).
 
+The method for calculating the scale types is based off the one done [HERE](https://github.com/vinc3m1/RoundedImageView) by [vinc3m1](https://github.com/vinc3m1).
+
 ### Usage
 1. Clone the repository and add the library to your project.
 
